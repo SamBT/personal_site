@@ -10,26 +10,23 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Particle Physics",
+    "Jet Physics",
+    "Machine Learning",
+    "Collider Physics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "B.A. in Physics and Applied Mathematics"
+  institution = "University of California, Berkeley"
+  year = 2018
+  magna cum laude, Phi Beta Kappa
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Ph.D. Student in Physics"
+  institution = "Cornell University"
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 

@@ -21,7 +21,6 @@ weight = 5
   course = "B.A. in Physics and Applied Mathematics"
   institution = "University of California, Berkeley"
   year = 2018
-  magna cum laude, Phi Beta Kappa
 
 [[education.courses]]
   course = "Ph.D. Student in Physics"

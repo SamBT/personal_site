@@ -1,10 +1,10 @@
 +++
-title = "Investigating the Topology Dependence of Quark and Gluon Jets"
-date = 2018-10-12T00:00:00
+title = "Search for R-parity-violating supersymmetric particles in multi-jet final states produced in $p$-$p$ collisions at $\\sqrt{s} =13$ TeV using the ATLAS detector at the LHC"
+date = 2018-04-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Samuel Bright-Thonney", "Benjamin Nachman"]
+authors = ["ATLAS Collaboration"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication_types = ["2"]
 publication = "Preprint"
 
 # Abstract and optional shortened version.
-abstract = "As most target final states for searches and measurements at the Large Hadron Collider have a particular quark/gluon composition, tools for distinguishing quark- from gluon-initiated jets can be very powerful. In addition to the difficulty of the classification task, quark-versus-gluon jet tagging is challenging to calibrate. The difficulty arises from the topology dependence of quark-versus-gluon jet tagging: since quarks and gluons have net quantum chromodynamic color charge while only colorless hadrons are measured, the radiation pattern inside a jet of a particular type depends on the rest of its environment. Given a definition of a quark or gluon jet, this paper studies the topology dependence of such jets in simulation. A set of phase space regions and jet substructure observables are identified for further comparative studies between generators and eventually in data."
+abstract = "Results of a search for gluino pair production with subsequent R-parity-violating decays to quarks are presented. This search uses 36.1 fb$^{-1}$ of data collected by the ATLAS detector in proton-proton collisions with a center-of-mass energy of $\\sqrt{s} = 13$ TeV at the LHC. The analysis is performed using requirements on the number of jets and the number of jets tagged as containing a $b$-hadron as well as a topological observable formed by the scalar sum of masses of large-radius jets in the event. No significant excess above the expected Standard Model background is observed. Limits are set on the production of gluinos in models with the R-parity-violating decays of either the gluino itself (direct decay) or the neutralino produced in the R-parity-conserving gluino decay (cascade decay). In the gluino cascade decay model, gluinos with masses below 1850 GeV are excluded for 1000 GeV neutralino mass. For the gluino direct decay model, the 95% confidence level upper limit on the cross section times branching ratio varies between 0.80 fb at $m_{\\tilde{g}}$ = 900 GeV and 0.011 fb at $m_{\\tilde{g}}$ = 1800 GeV."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -39,8 +39,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1810.05653.pdf"
-url_preprint = "https://arxiv.org/abs/1810.05653"
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/1804.03568"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
@@ -51,10 +51,10 @@ url_preprint = "https://arxiv.org/abs/1810.05653"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Cite", url = "http://example.org"}]
+url_custom = [{name = "Journal", url = "https://www.sciencedirect.com/science/article/pii/S0370269318306270?via%3Dihub"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = " 10.1016/j.physletb.2018.08.021"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

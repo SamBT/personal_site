@@ -54,7 +54,7 @@ url_preprint = "https://arxiv.org/abs/1804.03568"
 url_custom = [{name = "Journal", url = "https://www.sciencedirect.com/science/article/pii/S0370269318306270?via%3Dihub"}]
 
 # Digital Object Identifier (DOI)
-doi = " 10.1016/j.physletb.2018.08.021"
+doi = "10.1016/j.physletb.2018.08.021"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

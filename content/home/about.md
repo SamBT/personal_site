@@ -13,7 +13,7 @@ weight = 5
     "Particle Physics",
     "Jet Physics",
     "Machine Learning",
-    "Collider Physics"
+    "Colliders"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,7 +26,7 @@ weight = 5
   course = "Ph.D. Student in Physics"
   institution = "Cornell University"
 
- 
+
 +++
 
 # Biography

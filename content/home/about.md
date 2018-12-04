@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-Some text
+Something concise, descriptive, and perhaps mildly interesting will one day fill this space.

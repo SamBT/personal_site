@@ -51,10 +51,10 @@ url_preprint = "https://arxiv.org/abs/1810.05653"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Cite", url = "http://example.org"}]
+url_custom = [{name = "Journal", url = "https://link.springer.com/article/10.1007%2FJHEP03%282019%29098"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/JHEP03(2019)098"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

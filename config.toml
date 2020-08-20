@@ -51,7 +51,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Samuel Bright-Thonney"
+  name = "Sam Bright-Thonney"
   role = "Physics Ph.D. Student"
 
   # Organizations/Affiliations.
@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "skb93@cornell.edu"
-  address = "B83 Rockefeller Hall, Cornell University, Ithaca, NY 14853"
+  address = "Physical Sciences Building, Cornell University, Ithaca, NY 14853"
   office_hours = ""
   phone = ""
   skype = "live:sbrightthonney"
